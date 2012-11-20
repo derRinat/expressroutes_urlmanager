@@ -1,0 +1,25 @@
+{
+    "name": "robustrouting",
+    "version": "0.0.1",
+    "author": "Rinat Borovskikh <derrinat@gmail.com>",
+    "description": "dynamic routing and a simple URL manager for express application",
+    "contributors": [
+        {
+            "name":"Oleksandr Kovalov",
+            "email":"tradakad@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "express": "3.x",
+        "swig": "0.13.x",
+        "consolidate": "0.5.x"
+    },
+    "keywords": [
+        "node.js",
+        "express",
+        "routes",
+        "dynamic routing",
+        "url management"
+    ],    
+    "license": "MIT",    
+}

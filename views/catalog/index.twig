@@ -1,0 +1,6 @@
+<h1>Catalog</h1>
+<ul>
+    {% for value in products %}
+        <li><a href="{{value.link}}">{{ value.name }}</a></li>
+    {%- endfor %}
+</ul>
