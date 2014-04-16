@@ -7,6 +7,10 @@
         {
             "name":"Oleksandr Kovalov",
             "email":"tradakad@gmail.com"
+        },
+        {
+            "name":"Robert Beyer",
+            "email":"robert@4stern.net"
         }
     ],
     "dependencies": {
